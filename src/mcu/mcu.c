@@ -1,0 +1,24 @@
+#include "../inc/mcu/mcu.h"
+
+
+void mcu_port_init(void) {
+    P0 = 0x00;
+    P1 = 0x00;
+    P2 = 0x00;
+    P3 = 0x00;
+    P4 = 0x00;
+    P5 = 0x00;
+    P0M0 = 0x00;
+    P0M1 = 0x00;
+    P1M0 = 0x00;
+    P1M1 = 0x00;
+    P2M0 = 0x00;
+    P2M1 = 0x00;
+    P3M0 = 0x00;
+    P3M1 = 0x00;
+    P4M0 = 0x00;
+    P4M1 = 0x00;
+    P5M0 = 0x00;
+    P5M1 = 0x00;
+
+}
