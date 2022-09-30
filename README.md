@@ -1,2 +1,2 @@
-# stc51_demo
-基于STC8A8K64D4制作的电子时钟
+# mcu/8051
+real time clock based on stc8a8k64d4
